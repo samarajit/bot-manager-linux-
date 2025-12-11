@@ -18,3 +18,7 @@ your ip::5000
 
 # support me at :
 https://buymeacoffee.com/samarajit
+
+## screenshots:
+
+[!image](image.png)
