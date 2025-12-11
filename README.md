@@ -14,3 +14,7 @@ python bot_manager.py
 
 you can access it at :
 your ip::5000
+
+
+# support me at :
+https://buymeacoffee.com/samarajit
