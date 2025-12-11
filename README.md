@@ -21,4 +21,4 @@ https://buymeacoffee.com/samarajit
 
 ## screenshots:
 
-[!image](image.png)
+![image](image.png)
